@@ -16,6 +16,6 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.requirements << 'none'
 
-  s.add_dependency 'solidus_core', '~> 1.2'
+  s.add_dependency 'solidus_core', '~> 1.2.0.alpha'
 
 end
